@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+a
+bc
+da
+=======
+aa
+bc
+clgt
+abcvftghjg
+>>>>>>> 4ad10857490acfd67f711bf103699e7756ecd3f8
