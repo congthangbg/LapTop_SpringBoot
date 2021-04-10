@@ -1,0 +1,8 @@
+tên class vietes htg có s
+tên thực thể Chữ cái đầu viết hoa k có s
+
+jpa n+1 query problem
+
+
+MẶc định @ManytoOne & @OnetoOne sử dụng FetchType.EAGER theo mặc định
+-------
